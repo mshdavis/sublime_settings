@@ -1,0 +1,17 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+	],
+	"ignored_words":
+	[
+		"autosuggest?q=how%20ca"
+	],
+	"sublimelinter": false,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}

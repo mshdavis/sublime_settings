@@ -1,0 +1,58 @@
+[
+{
+"class": "sidebar_container",
+// right border
+"layer0.tint": [82,79,82],
+"layer0.opacity": 1.0,
+"layer0.draw_center": false,
+"layer0.inner_margin": [0, 0, 1, 0],
+"content_margin": [0, 0, 1, 0]
+},
+{
+"class": "sidebar_tree",
+"row_padding": [8, 3],
+"indent": 12,
+"indent_offset": 17,
+"indent_top_level": false,
+// background
+"layer0.tint": [20,20,20],
+"layer0.opacity": 1.0,
+"dark_content": false
+},
+{
+"class": "sidebar_heading",
+// heading 
+"color": [219,230,230],
+"font.bold": true,
+"shadow_color": [0,0,0],
+"shadow_offset": [0, 1]
+},
+{
+"class": "sidebar_heading",
+"parents":
+[
+{ "class": "tree_row", "attributes": ["selected"] }
+],
+"shadow_color": [0, 0, 0]
+},
+{
+"class": "sidebar_label",
+// folder/file labels
+"color": [134,134,134],
+"font.bold": false
+, "shadow_color": [0, 0, 0], "shadow_offset": [0, 1]
+},
+{
+"class": "sidebar_label",
+"parents": [{"class": "tree_row", "attributes": ["selected"]}],
+// selected file
+"color": [255,255,255]
+, "shadow_color": [26, 26, 26], "shadow_offset": [0, 1]
+},
+{
+"class": "sidebar_label",
+"parents": [{"class": "tree_row", "attributes": ["expandable"]}],
+"settings": ["bold_folder_labels"],
+"font.bold": true
+}
+]
