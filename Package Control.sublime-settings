@@ -7,19 +7,23 @@
 	[
 		"All Autocomplete",
 		"Anaconda",
+		"Babel",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Djaneiro",
 		"Enhanced Clojure",
+		"ESLint",
 		"Git",
 		"GitGutter",
 		"Handlebars",
 		"HTMLBeautify",
 		"lispindent",
+		"Markdown Preview",
 		"Package Control",
 		"requirementstxt",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
@@ -28,6 +32,7 @@
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-pyyaml",
 		"SublimeREPL",
+		"Syntax Highlighting for Sass",
 		"Theme - Flatland"
 	]
 }
