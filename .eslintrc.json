@@ -1,0 +1,14 @@
+{
+    "extends": "google",
+    "installedESLint": true,
+    "rules": {
+        "max-len": ["error", 100],
+	"object-curly-spacing": "off",
+	"arrow-parens": "off",
+	"no-negated-condition": "off",
+	"array-callback-return": "off",
+	"eqeqeq": "off",
+	"comma-dangle": "off",
+	"no-implicit-coercion": [1, {"allow": ["!!"]}]
+    }
+}
